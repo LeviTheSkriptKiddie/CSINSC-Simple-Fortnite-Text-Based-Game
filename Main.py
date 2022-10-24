@@ -106,7 +106,7 @@ print("wow good job u made it to end game!")
 print("Your in the Endgame now! You have 2 options,")
 print("Hide in a Bush Till its a 1v1 [1]")
 print("RUSH EVERY KID CAUSE YOUR THE BEST IN THIS LOBBY [2]")
-num == input(": ")
+num = input(": ")
 if num == "1":
     input("a kid sees your head peeking and you get headshot snipped")
     goto .death
